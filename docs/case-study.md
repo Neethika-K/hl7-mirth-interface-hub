@@ -58,6 +58,3 @@ Deduplication on message control ID, encounter updates keyed on the account numb
 
 HL7 v2.x message structure (MSH, PID, PV1, OBR, OBX), Mirth Connect channel design (filters, transformers, JavaScript writers), repeating-segment handling, ACK/NACK semantics, field mapping, validation and exception handling, SQL, test planning, and interface documentation.
 
-## Next
-
-Project 2 converts these HL7 v2 records to FHIR R4 resources and adds a troubleshooting runbook for common interface failures.
