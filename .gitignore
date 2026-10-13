@@ -1,0 +1,6 @@
+Mirth Connect/
+mirthconnect-*.tar.gz
+sql/*.db
+sql/*.bak*
+.DS_Store
+__pycache__/
